@@ -1,0 +1,2 @@
+LV_to_EE: 34 source crops | in-source coverage 0.908 (size 9.5) | target coverage on known crops 0.894, size 9.6, accuracy 0.401
+LV_to_PT: 34 source crops | in-source coverage 0.905 (size 9.4) | target coverage on known crops 0.563, size 11.9, accuracy 0.147
